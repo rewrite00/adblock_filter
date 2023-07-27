@@ -176,3 +176,6 @@ search.yahoo.co.jp###ctab
 
 ! 2023-07-19 https://shonenjumpplus.com
 shonenjumpplus.com##.smartapp-android
+
+! 2023-07-27　検索結果からNERVERまとめを消す
+duckduckgo.com##div.tile--img:has(a.tile--img__sub[href*="://matome.naver.jp"])
