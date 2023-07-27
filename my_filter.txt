@@ -1,0 +1,178 @@
+! 2017/10/17 21:42:07 http://oka-jp.seesaa.net
+oka-jp.seesaa.net###seesaa-bnr
+
+! 2018/7/17 15:31:36　くるねこ　 https://blog.goo.ne.jp/kuru0214 
+blog.goo.ne.jp##.user_unordered_list
+blog.goo.ne.jp##.guide
+blog.goo.ne.jp##.recommend
+blog.goo.ne.jp##.smt_rec_dcmatch_1
+blog.goo.ne.jp##.gooad-spbadge300_1
+blog.goo.ne.jp##.recommend_area
+blog.goo.ne.jp##.profile__informations > .blogger__tag-list
+blog.goo.ne.jp##a.post__card > .post__footer
+blog.goo.ne.jp##.block__footer-profile.block > .block__body
+blog.goo.ne.jp##.navbar
+blog.goo.ne.jp##.navbar__link--bottom
+blog.goo.ne.jp##.article__footer
+blog.goo.ne.jp###comment_form
+blog.goo.ne.jp##.block__popular--post.block
+blog.goo.ne.jp##.tags.entry-bottom-info
+blog.goo.ne.jp##.shop-btn
+blog.goo.ne.jp##.block__recent-posts
+blog.goo.ne.jp##.app_induction
+blog.goo.ne.jp###msg-box-app-recommend
+blog.goo.ne.jp##.profile__shop
+blog.goo.ne.jp##.breadcrumb--sp > p:nth-child(3)
+blog.goo.ne.jp##.footer__secondary
+blog.goo.ne.jp##.footer__docomo
+blog.goo.ne.jp##.block__shop
+blog.goo.ne.jp##.footer__sns
+blog.goo.ne.jp##.block__shop__owner
+blog.goo.ne.jp##.article__hideads
+
+!はてブのリンク要素を非表示に
+##.hatena-bookmark-count
+##.btn-vertical theme- lang-ja
+
+! 連想類語辞典　 https://renso-ruigo.com/
+renso-ruigo.com##.word_t > tbody
+
+! 2019/2/12　pixiv https://www.pixiv.net
+www.pixiv.net##.container-wrapper
+
+! 2019/3/27　ニコニコ動画  https://www.nicovideo.jp
+www.nicovideo.jp###tsukuaso
+dic.nicovideo.jp###right-column
+dic.nicovideo.jp###getword > div
+dic.nicovideo.jp##.st-Topnews
+dic.nicovideo.jp###getword3
+dic.nicovideo.jp##section.sw-Article_SubContents:nth-of-type(8)
+dic.nicovideo.jp##.sw-Article_RecommedIllust
+dic.nicovideo.jp##.sw-Article_RecommedMovie-lisit
+www.nicovideo.jp##.Balloon
+www.nicovideo.jp##.VideoListPanelContainer
+www.nicovideo.jp##.BottomSideContainer.GridCell > div.InViewLazyLoadContainer.InView:nth-of-type(3)
+www.nicovideo.jp###premiumHeader
+dic.nicovideo.jp##.a-recommend_news-contents.st-box_contents
+dic.nicovideo.jp##.st-box_space-footer.st-box
+www.nicovideo.jp##.TagRelatedBannerContainer.Card
+www.nicovideo.jp##.LiveTopicsContainer
+www.nicovideo.jp##.BottomMainContainer.GridCell
+www.nicovideo.jp##.sticky-inner-wrapper > .InViewLazyLoadContainer.InView
+www.nicovideo.jp##.PlaylistContainer
+www.nicovideo.jp##.IchibaContainer
+www.nicovideo.jp###trendtag
+www.nicovideo.jp##.PreVideoStartPremiumLinkContainer
+www.nicovideo.jp##.EasyCommentContainer-inner
+www.nicovideo.jp##.common-header-rg5t43
+dic.nicovideo.jp##section.sw-Article_SubContents
+dic.nicovideo.jp##.tp-TrendWord.sw-Column
+dic.nicovideo.jp##.sw-Article_TitleBox
+dic.nicovideo.jp##.common-header-1ivnjlh
+
+! 2019/10/12 http://blog.livedoor.jp
+blog.livedoor.jp##.blog-footer-inner
+
+! 2020/1/27 https://habitica.fandom.com
+habitica.fandom.com##.mcf-content
+
+! 2020/2/10 https://habitica.com
+habitica.com##.d-flex.party-members
+
+! 2020/4/15 https://renso-ruigo.com
+renso-ruigo.com##.sidebar-box4
+
+! 2020/4/18 https://toggl.com
+toggl.com##.AnnouncementBar__root
+toggl.com##.wrap--narrow.wrap.hero__content
+toggl.com##.e1mw70hc0.css-1mxg413
+toggl.com##.e1q61ghs9.css-12gxfrj
+toggl.com##.e1mw70hc0.css-1q5auyk
+toggl.com##.e1q61ghs9.css-larjgy
+toggl.com##div.form-field--submit.form-field:nth-of-type(2)
+
+! 2020/4/26 https://ameblo.jp
+ameblo.jp##.skin-txt-color.skinTextColor.skin-bg-color.skinBgColor.skin-body2.skinBody2 > div:nth-of-type(7)
+ameblo.jp##._vZt6ELd8
+ameblo.jp##._dPMfa1iq
+ameblo.jp##._MZC2NHjb
+
+! 2020/8/15 http://nanos.jp
+nanos.jp###float-bnr
+nanos.jp##[href^="https://chatnovel.blove.jp/about"]
+
+! 2020-10-27 https://ejje.weblio.jp
+ejje.weblio.jp###side
+
+! 2021-05-23 https://imgur.com
+imgur.com##.BottomRecirc
+
+! 2022-01-13 https://www.melonbooks.co.jp
+www.melonbooks.co.jp##.mb10.blocks_yellow.blocks
+
+! 2022-02-12 https://taskchute.cloud
+taskchute.cloud##.topCampaign
+taskchute.cloud##.topFooter__todaysWord
+
+! 2022-03-06 http://geminikanon.blog.fc2.com
+geminikanon.blog.fc2.com##div.fc2footer_contents_box
+geminikanon.blog.fc2.com##h3.footer_contents_group_title
+
+! 2022-03-07 https://sp.nicovideo.jp
+sp.nicovideo.jp##.siteWide-SmartAppBanner
+sp.nicovideo.jp##.watch-BlockedPremiumMiddleBannerContainer
+sp.nicovideo.jp##.jsTagRelatedBannerContainer
+sp.nicovideo.jp##.jsRelatedContentsContainer
+
+! 2022-03-11 https://jbbs.shitaraba.net
+jbbs.shitaraba.net##table:nth-of-type(3)
+
+! 2022-05-29 https://dic.pixiv.net
+dic.pixiv.net###sub
+
+! 2022-08-20 https://www.youtube.com
+||www.youtube.com/live_chat_replay$subdocument
+
+! 2022-10-07 https://shonenjumpplus.com
+shonenjumpplus.com##.js-viewer-recommended-series-list.viewer-colophon-recommend
+
+! 2022-11-15 https://sp.nicovideo.jp
+sp.nicovideo.jp##.watch-BlockedPremiumBottomFixedBannerContainer
+
+! 2022-11-21 https://www.lettuceclub.net
+www.lettuceclub.net###ranking-news > .l-contents__inner > .p-items
+
+! 2022-12-29 https://jbbs.shitaraba.net
+jbbs.shitaraba.net##.site-header-announcement
+
+! 2023-02-22 https://www.amazon.co.jp
+www.amazon.co.jp##.bucket.a-spacing-large.a-section > div
+
+! 2023-05-19 https://www.amazon.co.jp
+www.amazon.co.jp###rhf-shoveler
+
+
+! 2023-06-27 https://medaka.5ch.net
+5ch.net###overright
+
+
+nanos.jp##a[href*="v-spe.com"]
+nanos.jp##a[href*="blove.jp"]
+nanos.jp#$#a[href*="nanos.jp"]:has-text(- ナノ -) {display:inline-block;padding-top:30px!important;}
+
+! 2023-07-19 https://tech-camp.in
+tech-camp.in##.is-show.popup
+
+! 2023-07-13 https://search.yahoo.co.jp
+search.yahoo.co.jp###pop
+search.yahoo.co.jp###boost
+search.yahoo.co.jp###atkey
+search.yahoo.co.jp###tl_nt
+search.yahoo.co.jp###graph
+search.yahoo.co.jp##.sub
+search.yahoo.co.jp##article
+search.yahoo.co.jp###header
+search.yahoo.co.jp###ctab
+
+! 2023-07-19 https://shonenjumpplus.com
+shonenjumpplus.com##.smartapp-android
