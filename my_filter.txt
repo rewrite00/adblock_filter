@@ -39,6 +39,8 @@ renso-ruigo.com##.word_t > tbody
 
 ! 2019/2/12　pixiv https://www.pixiv.net
 www.pixiv.net##.container-wrapper
+! 2022-05-29 https://dic.pixiv.net
+dic.pixiv.net###sub
 
 ! 2019/3/27　ニコニコ動画  https://www.nicovideo.jp
 www.nicovideo.jp###tsukuaso
@@ -69,6 +71,11 @@ dic.nicovideo.jp##section.sw-Article_SubContents
 dic.nicovideo.jp##.tp-TrendWord.sw-Column
 dic.nicovideo.jp##.sw-Article_TitleBox
 dic.nicovideo.jp##.common-header-1ivnjlh
+sp.nicovideo.jp##.watch-BlockedPremiumBottomFixedBannerContainer
+sp.nicovideo.jp##.siteWide-SmartAppBanner
+sp.nicovideo.jp##.watch-BlockedPremiumMiddleBannerContainer
+sp.nicovideo.jp##.jsTagRelatedBannerContainer
+sp.nicovideo.jp##.jsRelatedContentsContainer
 
 ! 2019/10/12 http://blog.livedoor.jp
 blog.livedoor.jp##.blog-footer-inner
@@ -97,10 +104,6 @@ ameblo.jp##._vZt6ELd8
 ameblo.jp##._dPMfa1iq
 ameblo.jp##._MZC2NHjb
 
-! 2020/8/15 http://nanos.jp
-nanos.jp###float-bnr
-nanos.jp##[href^="https://chatnovel.blove.jp/about"]
-
 ! 2020-10-27 https://ejje.weblio.jp
 ejje.weblio.jp###side
 
@@ -118,44 +121,32 @@ taskchute.cloud##.topFooter__todaysWord
 geminikanon.blog.fc2.com##div.fc2footer_contents_box
 geminikanon.blog.fc2.com##h3.footer_contents_group_title
 
-! 2022-03-07 https://sp.nicovideo.jp
-sp.nicovideo.jp##.siteWide-SmartAppBanner
-sp.nicovideo.jp##.watch-BlockedPremiumMiddleBannerContainer
-sp.nicovideo.jp##.jsTagRelatedBannerContainer
-sp.nicovideo.jp##.jsRelatedContentsContainer
 
 ! 2022-03-11 https://jbbs.shitaraba.net
 jbbs.shitaraba.net##table:nth-of-type(3)
-
-! 2022-05-29 https://dic.pixiv.net
-dic.pixiv.net###sub
+jbbs.shitaraba.net##.site-header-announcement
 
 ! 2022-08-20 https://www.youtube.com
 ||www.youtube.com/live_chat_replay$subdocument
 
 ! 2022-10-07 https://shonenjumpplus.com
 shonenjumpplus.com##.js-viewer-recommended-series-list.viewer-colophon-recommend
-
-! 2022-11-15 https://sp.nicovideo.jp
-sp.nicovideo.jp##.watch-BlockedPremiumBottomFixedBannerContainer
+shonenjumpplus.com##.smartapp-android
 
 ! 2022-11-21 https://www.lettuceclub.net
 www.lettuceclub.net###ranking-news > .l-contents__inner > .p-items
 
-! 2022-12-29 https://jbbs.shitaraba.net
-jbbs.shitaraba.net##.site-header-announcement
 
 ! 2023-02-22 https://www.amazon.co.jp
 www.amazon.co.jp##.bucket.a-spacing-large.a-section > div
-
-! 2023-05-19 https://www.amazon.co.jp
 www.amazon.co.jp###rhf-shoveler
 
-
-! 2023-06-27 https://medaka.5ch.net
+! 2023-06-27 https://5ch.net
 5ch.net###overright
 
-
+! 2020/8/15 http://nanos.jp
+nanos.jp###float-bnr
+nanos.jp##[href^="https://chatnovel.blove.jp/about"]
 nanos.jp##a[href*="v-spe.com"]
 nanos.jp##a[href*="blove.jp"]
 nanos.jp#$#a[href*="nanos.jp"]:has-text(- ナノ -) {display:inline-block;padding-top:30px!important;}
@@ -174,8 +165,17 @@ search.yahoo.co.jp##article
 search.yahoo.co.jp###header
 search.yahoo.co.jp###ctab
 
-! 2023-07-19 https://shonenjumpplus.com
-shonenjumpplus.com##.smartapp-android
 
 ! 2023-07-27　検索結果からNERVERまとめを消す
 duckduckgo.com##div.tile--img:has(a.tile--img__sub[href*="://matome.naver.jp"])
+
+! 2023-07-19 https://comic-essay.com
+www.comic-essay.com##li.thum-list__item:has(a.thum-list__link[href="https://www.comic-essay.com/episode/330/"]) 
+www.comic-essay.com##.rankin-list__item[href="https://www.comic-essay.com/episode/330/"]
+www.comic-essay.com##li.thum-list__item:has(a.thum-list__link[href="https://www.comic-essay.com/episode/472/"]) 
+www.comic-essay.com##.rankin-list__item[href="https://www.comic-essay.com/episode/472/"]
+www.comic-essay.com##li.thum-list__item:has(a.thum-list__link[href="https://www.comic-essay.com/episode/461/"])
+www.comic-essay.com##.rankin-list__item[href="https://www.comic-essay.com/episode/461/"]
+
+! 2023-07-19 https://duckduckgo.com
+duckduckgo.com##.atb-banner
