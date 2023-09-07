@@ -164,6 +164,7 @@ search.yahoo.co.jp##.sub
 search.yahoo.co.jp##article
 search.yahoo.co.jp###header
 search.yahoo.co.jp###ctab
+search.yahoo.co.jp##.mhd
 
 
 ! 2023-07-27　検索結果からNERVERまとめを消す
