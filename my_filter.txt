@@ -99,7 +99,12 @@ toggl.com##.e1q61ghs9.css-larjgy
 toggl.com##div.form-field--submit.form-field:nth-of-type(2)
 
 ! 2020/4/26 https://ameblo.jp
-ameblo.jp##.skin-txt-color.skinTextColor.skin-bg-color.skinBgColor.skin-body2.skinBody2 > div:nth-of-type(7)
+ameblo.jp##._2t9X-9eN
+ameblo.jp###blogSmartPanel
+ameblo.jp##._1126hzCP
+ameblo.jp##._3uoHTQ3P
+ameblo.jp##._1gug7_SC
+ameblo.jp##._8HqwRzDe
 ameblo.jp##._vZt6ELd8
 ameblo.jp##._dPMfa1iq
 ameblo.jp##._MZC2NHjb
