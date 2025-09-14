@@ -197,3 +197,9 @@ docs.astro.build##.astro-6x7bp2qc.container > .astro-6x7bp2qc
 
 ! 2025/09/14 https://bbs.animanch.com
 bbs.animanch.com###recommends
+
+! 2025/09/14 https://kmansin09.org
+kmansin09.org##.code-block-1.code-block
+kmansin09.org##.main-sidebar
+kmansin09.org##.related-manga.c-row.row
+kmansin09.org##.wp-manga-tags
