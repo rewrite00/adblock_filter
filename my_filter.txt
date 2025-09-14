@@ -188,3 +188,12 @@ www.comic-essay.com##.rankin-list__item[href="https://www.comic-essay.com/episod
 
 ! 2023-07-19 https://duckduckgo.com
 duckduckgo.com##.atb-banner
+
+! 2025/02/11 https://dic.pixiv.net
+dic.pixiv.net###bottom_pixivcomic_touch
+
+! 2025/08/07 https://docs.astro.build
+docs.astro.build##.astro-6x7bp2qc.container > .astro-6x7bp2qc
+
+! 2025/09/14 https://bbs.animanch.com
+bbs.animanch.com###recommends
