@@ -1,6 +1,3 @@
-! 2017/10/17 21:42:07 http://oka-jp.seesaa.net
-oka-jp.seesaa.net###seesaa-bnr
-
 ! 2018/7/17 15:31:36　くるねこ　 https://blog.goo.ne.jp/kuru0214 
 blog.goo.ne.jp##.user_unordered_list
 blog.goo.ne.jp##.guide
@@ -36,11 +33,13 @@ blog.goo.ne.jp##.article__hideads
 
 ! 連想類語辞典　 https://renso-ruigo.com/
 renso-ruigo.com##.word_t > tbody
+renso-ruigo.com##.sidebar-box4
 
 ! 2019/2/12　pixiv https://www.pixiv.net
 www.pixiv.net##.container-wrapper
 ! 2022-05-29 https://dic.pixiv.net
 dic.pixiv.net###sub
+dic.pixiv.net###bottom_pixivcomic_touch
 
 ! 2019/3/27　ニコニコ動画  https://www.nicovideo.jp
 www.nicovideo.jp###tsukuaso
@@ -86,9 +85,6 @@ habitica.fandom.com##.mcf-content
 ! 2020/2/10 https://habitica.com
 habitica.com##.d-flex.party-members
 
-! 2020/4/15 https://renso-ruigo.com
-renso-ruigo.com##.sidebar-box4
-
 ! 2020/4/18 https://toggl.com
 toggl.com##.AnnouncementBar__root
 toggl.com##.wrap--narrow.wrap.hero__content
@@ -99,6 +95,10 @@ toggl.com##.e1q61ghs9.css-larjgy
 toggl.com##div.form-field--submit.form-field:nth-of-type(2)
 
 ! 2020/4/26 https://ameblo.jp
+||ameblo.jp^$cookie
+||stat.ameba.jp^
+||ad.ameba.jp^
+||tracking.ameba.jp^
 ameblo.jp##._2t9X-9eN
 ameblo.jp###blogSmartPanel
 ameblo.jp##._1126hzCP
@@ -110,6 +110,7 @@ ameblo.jp##._dPMfa1iq
 ameblo.jp##._MZC2NHjb
 ameblo.jp##._27TpPBHO
 ameblo.jp##aside
+ameblo.jp##._2f6ymoQ6
 
 ! 2020-10-27 https://ejje.weblio.jp
 ejje.weblio.jp###side
@@ -128,7 +129,6 @@ taskchute.cloud##.topFooter__todaysWord
 geminikanon.blog.fc2.com##div.fc2footer_contents_box
 geminikanon.blog.fc2.com##h3.footer_contents_group_title
 
-
 ! 2022-03-11 https://jbbs.shitaraba.net
 jbbs.shitaraba.net##table:nth-of-type(3)
 jbbs.shitaraba.net##.site-header-announcement
@@ -142,7 +142,6 @@ shonenjumpplus.com##.smartapp-android
 
 ! 2022-11-21 https://www.lettuceclub.net
 www.lettuceclub.net###ranking-news > .l-contents__inner > .p-items
-
 
 ! 2023-02-22 https://www.amazon.co.jp
 www.amazon.co.jp##.bucket.a-spacing-large.a-section > div
@@ -174,7 +173,6 @@ search.yahoo.co.jp###ctab
 search.yahoo.co.jp##.mhd
 search.yahoo.co.jp###appprfr
 
-
 ! 2023-07-27　検索結果からNERVERまとめを消す
 duckduckgo.com##div.tile--img:has(a.tile--img__sub[href*="://matome.naver.jp"])
 
@@ -189,9 +187,6 @@ www.comic-essay.com##.rankin-list__item[href="https://www.comic-essay.com/episod
 ! 2023-07-19 https://duckduckgo.com
 duckduckgo.com##.atb-banner
 
-! 2025/02/11 https://dic.pixiv.net
-dic.pixiv.net###bottom_pixivcomic_touch
-
 ! 2025/08/07 https://docs.astro.build
 docs.astro.build##.astro-6x7bp2qc.container > .astro-6x7bp2qc
 
@@ -203,3 +198,6 @@ kmansin09.org##.code-block-1.code-block
 kmansin09.org##.main-sidebar
 kmansin09.org##.related-manga.c-row.row
 kmansin09.org##.wp-manga-tags
+kmansin09.org##.wp-manga.c-top-sidebar.c-sidebar
+kmansin09.org##.with-border.c-sub-header-nav
+kmansin09.org##.site-footer
