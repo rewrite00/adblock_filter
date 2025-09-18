@@ -204,3 +204,11 @@ kmansin09.org##.wp-manga-tags
 kmansin09.org##.wp-manga.c-top-sidebar.c-sidebar
 kmansin09.org##.with-border.c-sub-header-nav
 kmansin09.org##.site-footer
+
+kmansin09.top##.code-block-1.code-block
+kmansin09.top##.main-sidebar
+kmansin09.top##.related-manga.c-row.row
+kmansin09.top##.wp-manga-tags
+kmansin09.top##.wp-manga.c-top-sidebar.c-sidebar
+kmansin09.top##.with-border.c-sub-header-nav
+kmansin09.top##.site-footer
