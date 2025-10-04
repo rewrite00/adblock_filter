@@ -214,3 +214,6 @@ kmansin09.top##.wp-manga.c-top-sidebar.c-sidebar
 kmansin09.top##.with-border.c-sub-header-nav
 kmansin09.top##.site-footer
 kmansin09.top##[href="https://raw1001.org/home"]
+
+! 2025-10-04　検索結果からアクセス出来ないハローワークのサイトを消す
+duckduckgo.com##article:has(a[href*="://www.hellowork.go.jp/"])
