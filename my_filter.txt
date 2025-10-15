@@ -31,6 +31,33 @@ blog.goo.ne.jp##.article__hideads
 ##.hatena-bookmark-count
 ##.btn-vertical theme- lang-ja
 
+! 2025/09/20 https://www.amazon.co.jp
+www.amazon.co.jp##bds-render-context-provider
+
+! 2025/09/30 https://jbbs.shitaraba.net
+jbbs.shitaraba.net##table
+
+! 2020/4/26 https://ameblo.jp
+||ameblo.jp^$cookie
+||ad.ameba.jp^
+||tracking.ameba.jp^
+ameblo.jp##._2t9X-9eN
+ameblo.jp###blogSmartPanel
+ameblo.jp##._1126hzCP
+ameblo.jp##._3uoHTQ3P
+ameblo.jp##._1gug7_SC
+ameblo.jp##._8HqwRzDe
+ameblo.jp##._vZt6ELd8
+ameblo.jp##._dPMfa1iq
+ameblo.jp##._MZC2NHjb
+ameblo.jp##._27TpPBHO
+ameblo.jp##aside
+ameblo.jp##._2f6ymoQ6
+ameblo.jp##._3bofxm6m
+ameblo.jp##._1pBvi4X8._2-9jYYRd
+ameblo.jp##.skin-mod-bg-color.skinOpacity._lOoj9uxq
+ameblo.jp##._3F3s2qqz
+
 ! 連想類語辞典　 https://renso-ruigo.com/
 renso-ruigo.com##.word_t > tbody
 renso-ruigo.com##.sidebar-box4
