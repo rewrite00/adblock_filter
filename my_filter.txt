@@ -41,6 +41,7 @@ jbbs.shitaraba.net##table
 ||ameblo.jp^$cookie
 ||ad.ameba.jp^
 ||tracking.ameba.jp^
+||ameblo.jp^$script
 ameblo.jp###blogSmartPanel
 ameblo.jp##.stickyNavigationBar
 ameblo.jp##aside
