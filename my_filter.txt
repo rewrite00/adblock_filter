@@ -46,7 +46,9 @@ ameblo.jp###blogSmartPanel
 ameblo.jp##.stickyNavigationBar
 ameblo.jp##aside
 ameblo.jp###ambHeader
-
+ameblo.jp##._3F3s2qqz
+ameblo.jp##._pYZFnjxV
+ameblo.jp##._3L31I-b8
 
 ! 連想類語辞典　 https://renso-ruigo.com/
 renso-ruigo.com##.word_t > tbody
@@ -161,18 +163,13 @@ nanos.jp#$#a[href*="nanos.jp"]:has-text(- ナノ -) {display:inline-block;paddin
 ! 2023-07-19 https://tech-camp.in
 tech-camp.in##.is-show.popup
 
-! 2023-07-13 https://search.yahoo.co.jp
-search.yahoo.co.jp###pop
-search.yahoo.co.jp###boost
-search.yahoo.co.jp###atkey
-search.yahoo.co.jp###tl_nt
-search.yahoo.co.jp###graph
+! 2025/10/29 https://search.yahoo.co.jp
 search.yahoo.co.jp##.sub
-search.yahoo.co.jp##article
-search.yahoo.co.jp###header
-search.yahoo.co.jp###ctab
-search.yahoo.co.jp##.mhd
-search.yahoo.co.jp###appprfr
+search.yahoo.co.jp##[class^="HotBuzz_HotBuzz__"]
+search.yahoo.co.jp##[class^="Trend_Trend__"]
+search.yahoo.co.jp##[class^="PopularTweet_PopularTweet__"]
+search.yahoo.co.jp##[class^="AppPromo_AppPromo__"]
+
 
 ! 2023-07-27　検索結果からNERVERまとめを消す
 duckduckgo.com##div.tile--img:has(a.tile--img__sub[href*="://matome.naver.jp"])
@@ -193,6 +190,7 @@ docs.astro.build##.astro-6x7bp2qc.container > .astro-6x7bp2qc
 
 ! 2025/09/14 https://bbs.animanch.com
 bbs.animanch.com###recommends
+bbs.animanch.com###catalog > .g-0.row
 
 ! 2025/09/14 https://kmansin09.org
 kmansin09.org##.code-block-1.code-block
@@ -203,7 +201,6 @@ kmansin09.org##.wp-manga.c-top-sidebar.c-sidebar
 kmansin09.org##.with-border.c-sub-header-nav
 kmansin09.org##.site-footer
 kmansin09.org##[href="https://raw1001.org/home"]
-
 kmansin09.top##.code-block-1.code-block
 kmansin09.top##.main-sidebar
 kmansin09.top##.related-manga.c-row.row
