@@ -1,32 +1,3 @@
-! 2018/7/17 15:31:36　くるねこ　 https://blog.goo.ne.jp/kuru0214 
-blog.goo.ne.jp##.user_unordered_list
-blog.goo.ne.jp##.guide
-blog.goo.ne.jp##.recommend
-blog.goo.ne.jp##.smt_rec_dcmatch_1
-blog.goo.ne.jp##.gooad-spbadge300_1
-blog.goo.ne.jp##.recommend_area
-blog.goo.ne.jp##.profile__informations > .blogger__tag-list
-blog.goo.ne.jp##a.post__card > .post__footer
-blog.goo.ne.jp##.block__footer-profile.block > .block__body
-blog.goo.ne.jp##.navbar
-blog.goo.ne.jp##.navbar__link--bottom
-blog.goo.ne.jp##.article__footer
-blog.goo.ne.jp###comment_form
-blog.goo.ne.jp##.block__popular--post.block
-blog.goo.ne.jp##.tags.entry-bottom-info
-blog.goo.ne.jp##.shop-btn
-blog.goo.ne.jp##.block__recent-posts
-blog.goo.ne.jp##.app_induction
-blog.goo.ne.jp###msg-box-app-recommend
-blog.goo.ne.jp##.profile__shop
-blog.goo.ne.jp##.breadcrumb--sp > p:nth-child(3)
-blog.goo.ne.jp##.footer__secondary
-blog.goo.ne.jp##.footer__docomo
-blog.goo.ne.jp##.block__shop
-blog.goo.ne.jp##.footer__sns
-blog.goo.ne.jp##.block__shop__owner
-blog.goo.ne.jp##.article__hideads
-
 !はてブのリンク要素を非表示に
 ##.hatena-bookmark-count
 ##.btn-vertical theme- lang-ja
@@ -215,3 +186,6 @@ kmansin09.top##[href="https://raw1001.org/home"]
 
 ! 2025-10-04　検索結果からアクセス出来ないハローワークのサイトを消す
 duckduckgo.com##article:has(a[href*="://www.hellowork.go.jp/"])
+
+! tictokを検索結果から消す
+www.google.*###search :is(.g, div[jsname="dTDiAc"]):has(a[href*="tiktok.com"])
