@@ -189,3 +189,5 @@ duckduckgo.com##article:has(a[href*="://www.hellowork.go.jp/"])
 
 ! tictokを検索結果から消す
 www.google.*###search :is(.g, div[jsname="dTDiAc"]):has(a[href*="tiktok.com"])
+
+bigcomics.jp##.recommended-series
