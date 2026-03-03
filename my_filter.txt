@@ -140,7 +140,11 @@ search.yahoo.co.jp##[class^="HotBuzz_HotBuzz__"]
 search.yahoo.co.jp##[class^="Trend_Trend__"]
 search.yahoo.co.jp##[class^="PopularTweet_PopularTweet__"]
 search.yahoo.co.jp##[class^="AppPromo_AppPromo__"]
+search.yahoo.co.jp##[class^="PickUpMigratory"]
 
+! Yahoo!検索結果から「まとめ」へのリンクを含むブロックを非表示
+search.yahoo.co.jp##.sw-Card:has(a[href^="https://search.yahoo.co.jp/realtime/search/matome"])
+search.yahoo.co.jp##.Contents__inner:has(a[href^="https://search.yahoo.co.jp/realtime/search/matome"])
 
 ! 2023-07-27　検索結果からNERVERまとめを消す
 duckduckgo.com##div.tile--img:has(a.tile--img__sub[href*="://matome.naver.jp"])
