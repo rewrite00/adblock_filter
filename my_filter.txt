@@ -109,6 +109,8 @@ jbbs.shitaraba.net##.site-header-announcement
 
 ! 2022-08-20 https://www.youtube.com
 ||www.youtube.com/live_chat_replay$subdocument
+www.youtube.com###secondary
+
 
 ! 2022-10-07 https://shonenjumpplus.com
 shonenjumpplus.com##.js-viewer-recommended-series-list.viewer-colophon-recommend
@@ -197,4 +199,8 @@ duckduckgo.com##article:has(a[href*="://www.hellowork.go.jp/"])
 ! tictokを検索結果から消す
 www.google.*###search :is(.g, div[jsname="dTDiAc"]):has(a[href*="tiktok.com"])
 
+! 2026/04/18 ビッグコミックスでオススメを消す
 bigcomics.jp##.recommended-series
+
+! 2026/04/18 https://note.com
+note.com##aside.p-article__extraRecommendedSection:nth-of-type(2)
