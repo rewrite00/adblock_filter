@@ -203,4 +203,4 @@ www.google.*###search :is(.g, div[jsname="dTDiAc"]):has(a[href*="tiktok.com"])
 bigcomics.jp##.recommended-series
 
 ! 2026/04/18 https://note.com
-note.com##aside.p-article__extraRecommendedSection:nth-of-type(2)
+note.com##aside.p-article__extraRecommendedSection
