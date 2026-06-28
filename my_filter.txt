@@ -204,3 +204,9 @@ bigcomics.jp##.recommended-series
 
 ! 2026/04/18 https://note.com
 note.com##aside.p-article__extraRecommendedSection
+
+! 2026/04/20 https://www.amazon.co.jp
+www.amazon.co.jp###rhf-container > .rhf-border
+
+! 2026/06/28 https://kurashinista.jp
+kurashinista.jp##.main-image
