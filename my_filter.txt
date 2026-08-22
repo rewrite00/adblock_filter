@@ -109,8 +109,7 @@ jbbs.shitaraba.net##.site-header-announcement
 
 ! 2022-08-20 https://www.youtube.com
 ||www.youtube.com/live_chat_replay$subdocument
-www.youtube.com###secondary
-
+www.youtube.com##.ytd-watch-next-secondary-results-renderer.style-scope > .ytd-item-section-renderer.style-scope
 
 ! 2022-10-07 https://shonenjumpplus.com
 shonenjumpplus.com##.js-viewer-recommended-series-list.viewer-colophon-recommend
