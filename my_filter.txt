@@ -4,9 +4,9 @@
 
 ! 2025/09/20 https://www.amazon.co.jp
 www.amazon.co.jp##bds-render-context-provider
-
-! 2025/09/30 https://jbbs.shitaraba.net
-jbbs.shitaraba.net##table
+www.amazon.co.jp##.bucket.a-spacing-large.a-section > div
+www.amazon.co.jp###rhf-shoveler
+www.amazon.co.jp###rhf-container > .rhf-border
 
 ! 2020/4/26 https://ameblo.jp
 ||ameblo.jp^$cookie
@@ -106,9 +106,9 @@ geminikanon.blog.fc2.com##h3.footer_contents_group_title
 ! 2022-03-11 https://jbbs.shitaraba.net
 jbbs.shitaraba.net##table:nth-of-type(3)
 jbbs.shitaraba.net##.site-header-announcement
+jbbs.shitaraba.net##table
 
 ! 2022-08-20 https://www.youtube.com
-||www.youtube.com/live_chat_replay$subdocument
 www.youtube.com##.ytd-watch-next-secondary-results-renderer.style-scope > .ytd-item-section-renderer.style-scope
 
 ! 2022-10-07 https://shonenjumpplus.com
@@ -117,10 +117,6 @@ shonenjumpplus.com##.smartapp-android
 
 ! 2022-11-21 https://www.lettuceclub.net
 www.lettuceclub.net###ranking-news > .l-contents__inner > .p-items
-
-! 2023-02-22 https://www.amazon.co.jp
-www.amazon.co.jp##.bucket.a-spacing-large.a-section > div
-www.amazon.co.jp###rhf-shoveler
 
 ! 2023-06-27 https://5ch.net
 5ch.net###overright
@@ -203,9 +199,6 @@ bigcomics.jp##.recommended-series
 
 ! 2026/04/18 https://note.com
 note.com##aside.p-article__extraRecommendedSection
-
-! 2026/04/20 https://www.amazon.co.jp
-www.amazon.co.jp###rhf-container > .rhf-border
 
 ! 2026/06/28 https://kurashinista.jp
 kurashinista.jp##.main-image
